@@ -1,0 +1,5 @@
+#inlude<stio.h>
+
+void main(){
+printf("HELLO WOLRD")
+return 0;} 
