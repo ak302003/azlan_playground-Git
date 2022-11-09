@@ -1,0 +1,8 @@
+#include<stdio.h>
+#inlcude<stdlib.h>
+
+void main(){
+printf("Kaisa hai bhen ke lode?");
+return 0;
+}
+
